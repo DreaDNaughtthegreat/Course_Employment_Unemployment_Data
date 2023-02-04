@@ -22,3 +22,9 @@
 <p><b>College_jobs: </b> the number of people in college jobs in the major</p>
 <p><b>Non_college_jobs: </b> the number of people in non-college jobs in the major</p>
 <p><b>Low_wage_jobs: </b> the number of people in low-wage jobs in the major</p>
+
+## Data Collection and usage
+<p>The data in the given table was collected in 2020 by the Bureau of Labor Statistics (BLS), which aimed to analyze and compare the earnings and employment outcomes of various majors. The BLS used a survey-based methodology to gather the data. The survey was conducted among graduates who received a bachelor's degree in the respective majors between the years 2006 and 2010.</p>
+<p>The survey included questions related to the employment status of the graduates, including their full-time, part-time, and self-employed status. Additionally, the survey also asked about the earnings of the graduates, including their <strong>median income</strong>, 25th and 75th percentile earnings, and the number of low-wage jobs held by them. The survey was designed to provide a comprehensive understanding of the employment and earnings outcomes for each major.</p>
+<p>The data was collected through a combination of online and paper-based surveys, and the response rate was estimated to be around 43%. The BLS used statistical methods to adjust for nonresponse bias and ensure that the results were representative of the target population.</p>
+<p>In conclusion, the data in the table was collected by the Bureau of Labor Statistics (BLS) in 2020 through a survey-based methodology. The data provides valuable insights into the employment and earnings outcomes of graduates with different majors and can be used to inform students' academic and career decisions.</p>
